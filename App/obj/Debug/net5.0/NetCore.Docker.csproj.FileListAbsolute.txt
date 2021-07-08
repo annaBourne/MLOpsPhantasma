@@ -1,0 +1,15 @@
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/NetCore.Docker.deps.json
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.json
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.dev.json
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/NetCore.Docker.dll
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/abourne/CodingTests/HelloWorld/App/bin/Debug/net5.0/NetCore.Docker.pdb
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.csproj.AssemblyReference.cache
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfo.cs
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.csproj.CoreCompileInputs.cache
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.dll
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.pdb
+/Users/abourne/CodingTests/HelloWorld/App/obj/Debug/net5.0/NetCore.Docker.genruntimeconfig.cache
